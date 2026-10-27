@@ -4,5 +4,11 @@ __pycache__/
 *.pyc
 /data/*
 !/data/.gitkeep
+!/data/train/
+/data/train/*
+!/data/train/.gitkeep
+!/data/public_test/
+/data/public_test/*
+!/data/public_test/.gitkeep
 /outputs/*
 !/outputs/.gitkeep
