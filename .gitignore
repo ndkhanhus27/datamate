@@ -2,5 +2,7 @@
 .env
 __pycache__/
 *.pyc
-data/
-outputs/
+/data/*
+!/data/.gitkeep
+/outputs/*
+!/outputs/.gitkeep
